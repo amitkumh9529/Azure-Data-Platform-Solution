@@ -1,0 +1,71 @@
+
+//  base_url = "https://raw.githubusercontent.com/amitkumh9529/"
+
+[
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Calendar.csv",
+        "apds_sink_folder" : "AdventureWorks_Calendar",
+        "adps_file_name" : "AdventureWorks_Calendar.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Customers.csv",
+        "apds_sink_folder" : "AdventureWorks_Customers",
+        "adps_file_name" : "AdventureWorks_Customers.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Product_Categories.csv",
+        "apds_sink_folder" : "AdventureWorks_Product_Categories",
+        "adps_file_name" : "AdventureWorks_Product_Categories.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Product_Subcategories.csv",
+        "apds_sink_folder" : "AdventureWorks_Product_Subcategories",
+        "adps_file_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Products.csv",
+        "apds_sink_folder" : "AdventureWorks_Products",
+        "adps_file_name" : "AdventureWorks_Products.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Returns.csv",
+        "apds_sink_folder" : "AdventureWorks_Returns",
+        "adps_file_name" : "AdventureWorks_Returns.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Sales_2015.csv",
+        "apds_sink_folder" : "AdventureWorks_Sales_2015",
+        "adps_file_name" : "AdventureWorks_Sales_2015.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Sales_2016.csv",
+        "apds_sink_folder" : "AdventureWorks_Sales_2016",
+        "adps_file_name" : "AdventureWorks_Sales_2016.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Sales_2017.csv",
+        "apds_sink_folder" : "AdventureWorks_Sales_2017",
+        "adps_file_name" : "AdventureWorks_Sales_2017.csv"
+    },
+
+    {
+        "p_rel_url": "Azure-Data-Platform-Solution/refs/heads/main/data/AdventureWorks_Territories.csv",
+        "apds_sink_folder" : "AdventureWorks_Territories",
+        "adps_file_name" : "AdventureWorks_Territories.csv"
+    }
+
+    
+
+    
+
+
+
+]
